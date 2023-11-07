@@ -1,0 +1,67 @@
+Footprinting-
+
+Google hacking teachniques-
+
+1) Site : 
+
+syntax: games site: www.certifiedhacker.com
+
+2) allinurl:
+
+syntax: allinurl: google career
+
+3) inurl:
+
+syntax: inurl: copy site:www.google.com
+
+4) allintitle:
+
+syntax: allintitle: detect malware
+
+5) intitle:
+
+syntax: malware detection intitle:help
+
+6) inanchor:
+
+syntax: Anti-virus inanchor:Norton
+
+7) allinanchor:
+
+syntax: allinanchor: best cloud service provider
+
+8) cache:
+
+syntax: cache:www.eff.org
+
+9) link:
+
+syntax: link:www.googleguide.com
+
+10) related:
+
+syntax: related:www.microsoft.com
+
+11) info:
+
+syntax: info:gothotel.com
+
+12) location:
+
+syntax: location: 4 seasons restaurant
+
+13) filetype:
+
+syntax: jasmine:jpg
+
+
+
+
+Google Hacking Database-
+
+Exploit DB-
+https://www.exploit-db.com/google-hacking-database
+
+Google Hacking, also known as Google Dorking, refers to the use of advanced search techniques to find specific information on the internet. This can include identifying vulnerabilities in websites, discovering sensitive data, and more. Google Hacking can be used for legitimate purposes like improving website security or finding publicly available information.
+
+You can find various GitHub repositories and Gists that contain Google Dorks and related information for different purposes.
