@@ -66,4 +66,13 @@ Google Hacking, also known as Google Dorking, refers to the use of advanced sear
 
 You can find various GitHub repositories and Gists that contain Google Dorks and related information for different purposes.
 
+
+Gathering information using Google Advanced Search, Advanced Image Search and Reverse Image Search-
+
+1) To perform an advanced image search in Google, type https://www.google.com/advanced_image_search in the address bar. 
+
+2) To perform a reverse image search in Google, type https://www.google.com/imghp in the address bar.
+
+3) An attacker can analyze video content using tools like YouTube Metadata, DataViewer, EZGif, and VideoReverser.com to extract hidden details such as timestamps, thumbnails, or convert videos into text for further intelligence gathering.
+
 Remember that using Google Hacking techniques for unethical or illegal activities can lead to serious consequences. It's essential to use these techniques responsibly and for legitimate purposes, such as checking the security of your own websites or researching publicly available information.
